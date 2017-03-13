@@ -1,0 +1,76 @@
+body {
+    background-color: #c1bdba;
+}
+
+h1 {
+    color: #fff;
+    text-align: center;
+    font-family: 'Nunito', sans-serif;
+}
+
+h2 {
+    color: #fff;
+    font-family: 'Nunito', sans-serif;
+    text-align: center;
+    box-sizing: border-box;
+    background-color: transparent;
+    border: 2px solid #e74c3c;
+    border-radius: 0.6em;
+    color: #e74c3c;
+    align-self: center;
+    font-size: 1rem;
+    font-weight: 900;
+    line-height: 1;
+    margin: 20px;
+    padding: 1.2em 2.8em;
+    text-align: center;
+    text-transform: uppercase;
+    font-family: 'Nunito', sans-serif;
+    font-weight: 700;
+    display: block;
+    width: 40%;
+    margin: auto;
+    margin-bottom: 35px;
+}
+
+section {
+    background-color: rgba(19, 35, 47, 0.9);
+    width: 50%;
+    box-shadow: 0 4px 10px 4px rgba(19, 35, 47, 0.3);
+    margin: auto;
+    border-radius: 10px;
+    height: 250px;
+    padding-top: 50px;
+}
+
+input {
+    display: block;
+    margin: auto;
+    text-align: center;
+    width: 70%;
+    margin-top: 15px;
+    color: white;
+    background-color: #007045;
+    border: none;
+    border-bottom: 2px solid red;
+}
+
+button {
+    display: block;
+    width: 40%;
+    border: 0;
+    border-radius: 8px;
+    outline: none;
+    padding: 15px 0;
+    font-size: 2rem;
+    font-weight: 600;
+    font-family: 'Nunito', sans-serif;
+    text-transform: uppercase;
+    letter-spacing: .1em;
+    background: #1ab188;
+    color: #ffffff;
+    -webkit-transition: all 0.5s ease;
+    transition: all 0.5s ease;
+    -webkit-appearance: none;
+    margin: auto;
+}
